@@ -1,0 +1,8 @@
+#je nomme les fichiers que git ignore quand j'envoie le push à github
+.venv
+venv
+
+*.csv
+*.json
+
+_pycache_
